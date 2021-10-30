@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "first",
+      "description": "first",
+      "id": 1
+    },
+    {
+      "title": "second",
+      "description": "second",
+      "id": 2
+    },
+    {
+      "title": "third",
+      "description": "123123",
+      "id": 3
+    },
+    {
+      "title": "forth",
+      "description": "forth desc",
+      "id": 4
+    }
+  ]
+}
